@@ -2,5 +2,4 @@
 AI Engineering, Prompts, Tool configs, Terminology
 
 ### Repo Structure
-- **Knowledge:** Terminology, Concepts, and Basic Skill Reference
-- **Prompts:** Prompts for varying purposes
+- [**AI_ML_Knowledge:**](/AI_ML_Knowledge/README.md) Terminology, Concepts, and Basic Skill Reference 
