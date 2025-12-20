@@ -9,6 +9,8 @@ Learning:
 - Google Cloud Professional Machine Learning Engineer Certificate (Planned)
 - The Construct Robotics Developer Path (Planned)
 
+Goal: Work on AI/ML in Robotics. Start from AI Engineer learn a deep understanding of Machine Learning then learn how to work with robotics and utilize machine learning wihtin robotics.
+
 ### Repo Structure
 - [**Advent-Of-Agents**](/Advent-Of-Agents/): the 25 days of agents by google to learn agentic ai through the ADK framework
 - [**Cert-GCloud-MLE**](/Cert-GCloud-MLE/): Google Skills Machine Learning Engineer Path and Certification Exam plus Certificate
