@@ -1,1 +1,0 @@
-basically this directory is to hold everything I might need to collect, prepare, perform, and evaluate reinforcement learning

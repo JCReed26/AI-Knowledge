@@ -1,8 +1,15 @@
-# AI-Knowledge
-AI Engineering, Prompts, Tool configs, Terminology
+# AI & ML Robotics Developer
+
+B.A. Computer Science at FSU Graduated December 2025
+
+Learning: 
+
+- Agentic AI with Google ADK
+- Google Skills Machine Learning Engineer Path
+- Google Cloud Professional Machine Learning Engineer Certificate (Planned)
+- The Construct Robotics Developer Path (Planned)
 
 ### Repo Structure
-- [**AI_ML_Knowledge:**](/AI_ML_Knowledge/README.md) Terminology, Concepts, and Basic Skill Reference 
-- [**Prompt_Engineering:**](/Prompt_Engineering/README.md) Prompting Concepts, and Practices for Differing Usecases
-- [**Prompts:**](/Prompts/) Collected Prompts from projects over time to use as inspiration
-- [**Templates:**](/Templates/README.md) Templates related to creating high quality custom Agentic AI and Workflow Automations
+- [**Advent-Of-Agents**](/Advent-Of-Agents/): the 25 days of agents by google to learn agentic ai through the ADK framework
+- [**Cert-GCloud-MLE**](/Cert-GCloud-MLE/): Google Skills Machine Learning Engineer Path and Certification Exam plus Certificate
+- [**Construct-Robotics-Developer**](/Construct-Robotics-Dev/): the construct robotics developer training online following masterclass
